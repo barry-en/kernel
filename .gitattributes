@@ -12,3 +12,7 @@ public/empty-scenes/common/EP_03/models/EP_03.glb filter=lfs diff=lfs merge=lfs 
 public/empty-scenes/common/EP_03/models/FloorBaseGrass_01/thumbnail.png filter=lfs diff=lfs merge=lfs -text
 public/empty-scenes/common/EP_03/models/FloorBaseGrass_01/FloorBaseGrass_01.glb filter=lfs diff=lfs merge=lfs -text
 public/empty-scenes/common/EP_03/models/FloorBaseGrass_01/Floor_Grass01.png.png filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_04/models/EP_04.glb filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_04/models/FloorBaseGrass_01/FloorBaseGrass_01.glb filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_04/models/FloorBaseGrass_01/Floor_Grass01.png.png filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_04/models/FloorBaseGrass_01/thumbnail.png filter=lfs diff=lfs merge=lfs -text
