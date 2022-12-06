@@ -1,0 +1,4 @@
+public/empty-scenes/ filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/halloween filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/xmas filter=lfs diff=lfs merge=lfs -text
