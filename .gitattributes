@@ -2,3 +2,17 @@ public/empty-scenes/ filter=lfs diff=lfs merge=lfs -text
 public/empty-scenes/common filter=lfs diff=lfs merge=lfs -text
 public/empty-scenes/halloween filter=lfs diff=lfs merge=lfs -text
 public/empty-scenes/xmas filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_01 filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_01/models/EP_01.glb filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_01/models/FloorBaseGrass_01 filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_04 filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_05 filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_06 filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_12 filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_02 filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_03 filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_07 filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_08 filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_09 filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_10 filter=lfs diff=lfs merge=lfs -text
+public/empty-scenes/common/EP_11 filter=lfs diff=lfs merge=lfs -text
